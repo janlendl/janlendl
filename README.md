@@ -6,7 +6,7 @@ I'm Lendl Peralta, I recently graduated at Lighthouse Labs with a diploma in Web
 <img src="https://media3.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300" height="300" frameBorder="0" />
 </p>
 
-- 🔭 I’m currently working on creating simple react pages. I plan to start on making a simple weather app ☁️ wa
+- 🔭 I’m currently working on creating simple react pages. I plan to start on making a simple weather app ☁️
 - 🌱 I’m currently learning to improve my ReactJS skills
 - 💬 Ask me about Javascript, Node.JS, ReactJS, Git methodology
 - ⚡ Fun fact: I enjoy outdoor activities. I love biking on trails, hiking and fly fishing
