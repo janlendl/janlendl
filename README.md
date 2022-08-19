@@ -5,6 +5,8 @@ I'm Lendl Peralta, I recently graduated at Lighthouse Labs with a diploma in Web
 #
 <iframe src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="480" height="442" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii">via GIPHY</a></p>
 
+<a><img src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="480" height="442" frameBorder="0" /> href="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii"</a>
+
 - 🔭 I’m currently working on creating simple react pages. I plan to start on making a simple weather app ☁️ wa
 - 🌱 I’m currently learning to improve my ReactJS skills
 - 💬 Ask me about Javascript, Node.JS, ReactJS, Git methodology
